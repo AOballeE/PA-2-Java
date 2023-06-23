@@ -1,5 +1,4 @@
-<h1>PA 2- Create a program that accepts a customers order for hammocks. The customer gets 
-  a discount based on the order total (size). A sales receipt will be generated. </h1>
+<h1>PA 2- Create a program that accepts a customers order for hammocks. The customer gets a discount based on the order total (size). A sales receipt will be generated. </h1>
 
 
 <h2>Description</h2>
